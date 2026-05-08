@@ -138,6 +138,3 @@ Salesforce can automate the entire admission workflow, including communication, 
 ![Playground Hands-on](playground-handson.png)
 
 ---
-
-## Playground Starter
-![Playground Starter](playground-starter.png)
