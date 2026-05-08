@@ -46,6 +46,22 @@ Lead → Contact → Opportunity → Customer
 
 ---
 
-## Screenshots
+# Screenshots
 
-Trailhead screenshots are added in the screenshots folder.
+## Trailhead Modules
+![Trailhead Modules](Trailhead-modules.png)
+
+---
+
+## Playground Creation
+![Playground Creation](playground-creation.png)
+
+---
+
+## Playground Hands-on
+![Playground Hands-on](playground-handson.png)
+
+---
+
+## Playground Starter
+![Playground Starter](playground-starter.png)
