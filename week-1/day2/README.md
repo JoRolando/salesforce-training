@@ -178,13 +178,14 @@ This allows businesses to build custom solutions on top of the Salesforce Platfo
 
 ---
 
-# 9. Screenshots
+# Screenshots
 
-## Trailhead Modules
-(Add screenshots here)
+## Platform Basics Module
+![Platform Basics](platformbasics.png)
 
-## Platform Basics
-(Add screenshots here)
+---
 
-## Playground Activities
-(Add screenshots here)
+## Platform Development Basics Module
+![Platform Development Basics](platformdevelopmentbasics.png)
+
+
